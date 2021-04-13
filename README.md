@@ -50,10 +50,12 @@ Change 4
 ![image](https://user-images.githubusercontent.com/79341865/114595225-2369e980-9c5c-11eb-8a93-95a0452340bb.png)
 
 Portrait mode ------- text style with flex is 0.5
+
 ![image](https://user-images.githubusercontent.com/79341865/114595252-29f86100-9c5c-11eb-82dc-aae47d13b952.png)
 
  
 Landscape mode ------- textLanscape style with flex is 0.9
+
 ![image](https://user-images.githubusercontent.com/79341865/114595268-2ebd1500-9c5c-11eb-8b7a-100b419db6de.png)
 
  
